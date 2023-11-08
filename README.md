@@ -13,3 +13,7 @@ https://github.com/ManaliBhave/EduAbled/assets/83704552/915c4269-3ccf-4c58-9ad4-
 - Voice Navigation
 - Text-To-Speech (To read notes)
 - Reward System
+
+## Block Diagram
+
+![EduAbled_block_diagram](https://github.com/ManaliBhave/EduAbled/assets/83704552/18816945-2622-4aee-b4fe-852b96815549)
